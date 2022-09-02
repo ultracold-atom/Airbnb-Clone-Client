@@ -22,10 +22,7 @@ For detailed explanation on how things work, check out the [documentation](https
 # Project Features on Client
  - Create a new User and Sign-Up
  - Login with the User
- - See the Products at the store
- - Make search with from Search Bar
- - Add Products to the Shopping Cart
- - Make reviews
+ - See the Hosts at the Host-Detail Page
 
 # Project Screenshots 
 
